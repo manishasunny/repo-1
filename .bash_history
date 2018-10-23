@@ -199,3 +199,307 @@ git pull
 git log
 ls
 git status
+cd ~
+ls
+cd repo-1
+ls
+git push
+git push
+git push
+git branch
+git remote add https://github.com/manishasunny/repo-1.git
+git remote add origin https://github.com/manishasunny/repo-1.git
+git push -u orgin master
+git add .
+git status
+git log
+git push -u origin master
+cd ..
+touch sample
+git status
+git commit -m "sample"
+gitnlog
+git log
+git status
+git commit -m "sample"
+git add sample
+git status
+git commit -m "sample"
+ls
+git push https://github.com/manishasunny/repo-1.git
+ls
+cd repo-1
+ls
+git add .
+git commit -m "vvv"
+git clone https://github.com/manishasunny/repo-1.git
+ls
+cd repo-1
+ls
+cd ..
+git init
+git add .
+cd repo-1/
+git ad .
+git add .
+git log
+git status
+cd ..
+ls
+rm -rf repo-1
+ls
+ls 
+cd ..
+ls
+pwd
+cd repo-1
+ls
+cd ..
+mkdir new
+cd new
+pwd
+cd ..
+cd repo-1
+ls
+mv f7 f7/new
+mv f7 new/f7
+mv f7 f7 f7 new
+mv f7 f7 new
+mv f7 f7 /new
+mv repo-1 new
+cd ..
+mv repo-1 new
+ls
+cd new
+ls
+cd repo-1
+ls
+mv f7 f7 new
+cd ..
+cd ..
+mv /repo-1 /new
+ls
+cd new
+ls
+cd repo-1
+ls
+cd ..
+ls
+ch repo-1
+cd repo-1
+mv f7 ../
+ls
+cd ..
+ls
+ls
+cd repo-1
+ls
+mv f8 file1 file2 fx manisha xyz xyz1 ../
+ls
+cd ..
+ls
+rm -rf repo-1
+ls
+cd ~
+cd new
+git clone https://github.com/manishasunny/example.git
+ls
+git push https://github.com/manishasunny/example.git
+git pull 
+git add .
+ls
+cd example/
+ls
+git add .
+ls
+git status
+cd ..
+ls
+cd ..
+ls
+cd new
+ls
+cd ..
+ls
+git push 
+git push 
+git push 
+git push https://github.com/manishasunny/example.git
+ls
+cd new
+ls
+rm -rf example
+ls
+mv f7 f8 file1 file2 fx manisha xyz xyz1 ../
+ls
+cd ..
+ls
+rm -rf new
+ls
+git clone https://github.com/manishasunny/hh.git
+git init
+git add README.md
+ls
+git add .
+git rm --cached classroom/repo-1
+git rm -f --cached classroom/repo-1
+ls
+git add .
+ls
+cd classroom/
+ls
+cd repo-1
+ls
+git add .
+git status
+git commit -m "mm"
+git push 
+cd ..
+ls
+rm -rf repo-1
+ls
+cd ..
+ls
+git add .
+git status
+git commit -m "new"
+git remote add origin https://github.com/manishasunny/hh.git
+git push -u origin master
+ls
+cd hh
+ls
+cd classroom
+cd ..
+cd classroom/
+ls
+cd ..
+cd hh
+ls
+git add README.md
+git init
+git add README.md
+cd ..
+git push https://github.com/manishasunny/example.git
+ls
+rm -rf hh
+ls
+git push https://github.com/manishasunny/example.git
+ls
+git push https://github.com/manishasunny/repo-1.git
+ls
+git clone https://github.com/manishasunny/example.git
+ls
+mv f1 f2 example
+ls
+cd example
+ls
+git add .
+git commit -m "eg"
+git status
+git log
+git push
+git status
+git push -u orgin master
+git remote add origin https://github.com/manishasunny/example.git
+git push -u origin master
+touch aa
+git add aa
+git commit -m "aa"
+git push
+git push https://github.com/manishasunny/example.git
+ls
+cd ~
+ls
+touch abc
+git add abc
+git commit -m "abc"
+git push https://github.com/manishasunny/repo-1.git
+git push
+git push
+ls
+git clone https://github.com/manishasunny/hh.git
+ls
+cd hh
+touch f1
+ls
+git add .
+git commit -m "hh"
+git remote add origin https://github.com/manishasunny/hh.git
+git push -u origin master
+git push
+git init
+git status
+git add .
+git commit -m "hh"
+git push -u origin master
+cd 
+history
+git add .
+cd ~
+ls
+cd example
+ls
+git push
+cd ~
+git --v
+git --version
+ls
+git status
+touch manisha
+git status
+git add manisha
+git add manisha
+git status
+ls
+git add manisha
+git status
+git commit -m "manisha"
+ls
+rm manisha
+ls
+git push
+git clone https://github.com/harikamadhu2603/harika.git
+ls
+git push
+ls
+cd harika
+touch manisha
+git add manisha
+git commit -m "manisha"
+git log
+git push
+cd ..
+ls
+cd classroom
+ls
+clear
+ls
+ls
+cd ..
+sudo service jenkins start
+ok
+sudo yum -y update
+bash: ok: command not found
+bash: ok: command not found
+sudo yum install java-1.8.0
+sudo service jenkins start
+Nothing to do
+[root@ip-172-31-30-190 ~]# sudo service jenkins start
+Starting Jenkins Oct 22, 2018 6:59:48 PM Main main
+SEVERE: Running with Java class version 51.0, which is older than the required 52.0. See https://jenkins.io/redirect/java-support/
+java.lang.UnsupportedClassVersionError: 51.0
+        at Main.main(Main.java:146)
+sudo yum remove java-1.7.0-openjdk
+sudo wget -O /etc/yum.repos.d/jenkins.repo http://pkg.jenkins-ci.org/redhat/jenkins.repo
+sudo rpm --import http://pkg.jenkins-ci.org/redhat/jenkins-ci.org.key
+sudo yum install jenkins
+sudo service jenkins start
+mvn --version
+sudo wget http://repos.fedorapeople.org/repos/dchen/apache-maven/epel-apache-maven.repo -O /etc/yum.repos.d/epel-apache-maven.repo
+sudo sed -i s/\$releasever/6/g /etc/yum.repos.d/epel-apache-maven.repo
+sudo yum install -y apache-maven
+mvn --version
+echo $PATHA
+echo $PATH
+echo $JAVA_HOME
+echo $M2_HOME
